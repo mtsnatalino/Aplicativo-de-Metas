@@ -54,3 +54,7 @@ Acesso e propriedades de objetos
 criar, passar argumento
 executar
 arrow function /named function
+
+# Estrutura de repetição
+
+while
