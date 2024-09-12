@@ -36,6 +36,7 @@ Boolean: true, false
 
 Operadores de atribuição de valor =
 Operador de contatenaçao +
+Operadores de comparacao: == != < > <= =>
 
 ## Estrutura de dados:
 
@@ -62,6 +63,7 @@ while
 # Condicionais
 
 switch
+if/else
 
 # Modulos em Node.js:
 
